@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ola
 ola
+=======
+opa
+>>>>>>> daf1aa961302c1d11e54e20e0473ca33a58b3e1a
